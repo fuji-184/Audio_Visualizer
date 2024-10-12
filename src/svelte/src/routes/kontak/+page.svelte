@@ -1,0 +1,1 @@
+<a href="/tentang">tentang</a>
